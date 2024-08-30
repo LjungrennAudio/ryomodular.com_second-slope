@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "optodist 1.2 TH-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/optodist 1.2 TH-eagle-import.kicad_sym")(options "")(descr ""))
+)
