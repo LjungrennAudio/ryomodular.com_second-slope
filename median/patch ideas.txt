@@ -1,0 +1,1 @@
+"… feed the NR output to a max/min module, together with a fixed voltage which determines the highest allowed pitch. then use the min output. the higher notes will not exceed the fixed voltage, while the lower notes get through unchanged."

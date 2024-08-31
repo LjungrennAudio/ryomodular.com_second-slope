@@ -1,0 +1,34 @@
+
+second slope
+
+
+
+socket		socket			in 1		max
+
+
+knob		socket			bias 1		median
+
+
+socket		socket			in 2		inv med
+
+
+knob		socket			bias 2		min
+
+
+socket		socket			in 3		rising
+
+
+socket		socket			in 4		rising/
+							falling
+
+switch		socket			min/med/max	steady
+
+
+socket		socket			slope in	falling
+
+	RYO					RYO
+
+
+
+
+probably 6hp
