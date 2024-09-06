@@ -10,3 +10,11 @@ it's definitely got legs as something but i'd like to find a away to make it far
 it's yet another candidate wth high possibilities as part of the jacob's ladder projecgt but i don't know if there's room fo all the functionality this offers in such a mdoule as that.
 
 we'll have to watch and wait with baited breath, eh?
+
+
+#######
+
+2409060303
+
+see jacob's ladder for continuation.
+
